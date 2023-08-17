@@ -1,0 +1,5 @@
+{{#user}
+Name: Nikhil Singh
+Skills: HTML, CSS, JS, ReactJS
+Email: nikhilsingh141141@gmail.com
+{{/user}}
